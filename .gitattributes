@@ -1,1 +1,2 @@
-*.* linguist-vendored=Python
+*.css linguist-language=Python
+*.html linguist-language=Python
